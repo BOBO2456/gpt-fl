@@ -1,0 +1,13 @@
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,developers.generativeai.google
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,claude
