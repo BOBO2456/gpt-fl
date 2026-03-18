@@ -1,0 +1,51 @@
+# 香港金融 & 常用服务（手动维护）
+
+# ===== 银行 =====
+
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hangseng.com.hk
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bankofchina.com.hk
+DOMAIN-SUFFIX,dbs.com.hk
+DOMAIN-SUFFIX,dahsing.com
+DOMAIN-SUFFIX,dahsing.com.hk
+DOMAIN-SUFFIX,citibank.com.hk
+DOMAIN-SUFFIX,standardchartered.com.hk
+DOMAIN-SUFFIX,asia.ccb.com
+
+# ===== 券商 =====
+
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo.com.hk
+DOMAIN-SUFFIX,tigerbrokers.com
+DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,brightsmart.com
+
+# ===== 支付 / 金融服务 =====
+
+DOMAIN-SUFFIX,alipayhk.com
+DOMAIN-SUFFIX,tapngo.com.hk
+DOMAIN-SUFFIX,octopus.com.hk
+DOMAIN-SUFFIX,wechatpayhk.com
+
+# ===== 财经资讯 =====
+
+DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,etnet.com.hk
+DOMAIN-SUFFIX,aastocks.com
+DOMAIN-SUFFIX,aastocks.com.hk
+
+# ===== 官方 =====
+
+DOMAIN-SUFFIX,hkex.com.hk
+DOMAIN-SUFFIX,hkma.gov.hk
+
+# ===== 常用香港服务（补充）=====
+
+DOMAIN-SUFFIX,hktvmall.com
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,nowtv.now.com
+DOMAIN-SUFFIX,viu.tv
