@@ -1,13 +1,30 @@
+# Anthropic / Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-KEYWORD,claude
+
+# Poe
 DOMAIN-SUFFIX,poe.com
+
+# Perplexity
 DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+# Google Gemini / Generative AI
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,bard.google.com
+DOMAIN-KEYWORD,gemini
+
+# DeepSeek
 DOMAIN-SUFFIX,deepseek.com
+
+# xAI / Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
+# Hugging Face
 DOMAIN-SUFFIX,huggingface.co
+
+# OpenRouter
 DOMAIN-SUFFIX,openrouter.ai
-DOMAIN-KEYWORD,gemini
-DOMAIN-KEYWORD,claude
