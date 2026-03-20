@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,whatsapp.net
 # Signal
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,signal.me
-DOMAIN-SUFFIX,signals.org
 DOMAIN-SUFFIX,signalusers.org
 DOMAIN-SUFFIX,cdn.signal.org
 DOMAIN-SUFFIX,updates.signal.org
