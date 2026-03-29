@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,auth.docker.io
 
 # GitHub Container Registry
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,githubusercontent.com
 
 # Google Container Registry
 DOMAIN-SUFFIX,gcr.io
