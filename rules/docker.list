@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,cdn.quay.io
 
 # GitLab Container Registry
 DOMAIN-SUFFIX,registry.gitlab.com
+
+# openclaw插件
+DOMAIN-SUFFIX,npmjs.org
